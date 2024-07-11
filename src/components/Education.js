@@ -44,24 +44,24 @@ const Education = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4">
           <Details
-            type="Bachelor of Science in Computer Science"
-            time="2016-2020"
-            place="Massachusetts Institute of Technology (MIT)"
-            info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence."
+            type="Bachelor of Art in Communications"
+            time="Sep. 2016- Jun. 2020"
+            place="Soochow University"
+            info="GPA:3.85/4.00"
           />
 
           <Details
-            type="Master of Computer Science"
-            time="2020-2022"
-            place="Stanford University"
-            info="Completed a master's project on deep learning, developing a new neural network architecture for natural language understanding."
+            type="School-sponsored Exchange"
+            time="Aug.2019 - Dec.2019"
+            place="Seattle University"
+            info="GPA:3.65/4.00"
           />
 
           <Details
-            type="Online Coursework"
-            time="2016-2020"
-            place="Coursera and edX"
-            info="Completed coursework in advanced topics such as Reinforcement Learning, Computer Vision, and Machine Learning Engineering."
+            type="School-sponsored Exchange"
+            time="Jan.2019 - May.2019"
+            place="University of California, Berkeley"
+            info="GPA:3.80/4.00"
           />
         </ul>
       </div>
