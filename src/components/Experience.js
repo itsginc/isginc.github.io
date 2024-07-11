@@ -120,8 +120,8 @@ const Experience = () => {
               companyLink="https://mit.edu"
               time="Jun.2019 - Sep.2019"
               address="Toronto, Canada"
-              work="Adviser: Dr. Jenna Jacobson Global Research Internship Scholarship funded by state Ministry of Education (Top 1)\n
-• Focused on micro-influencers’ perspectives to understand the innovation and changing digital retailing landscape, codify 323 influencers social media. \n
+              work="Adviser: Dr. Jenna Jacobson Global Research Internship Scholarship funded by state Ministry of Education (Top 1)<br />
+• Focused on micro-influencers’ perspectives to understand the innovation and changing digital retailing landscape, codify 323 influencers social media.<br />
 • Initiated the implementation of Python to streamline the tedious data collection process, successfully crawled and cleaned the data. Displayed technical aptitude through self-taught Python skills and developed a 20-page data collection handbook for the subsequent team, leading to its successful execution and continued use."
             />
 
@@ -131,8 +131,8 @@ const Experience = () => {
               companyLink="https://amazon.com"
               time="Jun.2018 - Jan.2019"
               address="Suzhou, China"
-              work="• Managed social network accounts, added >2,000 followers in 2 months with record-high PV (>50,000).\n
-• Secured funds of 30,000 CNY ($8,500) with the free venue and catering for annual events.\n
+              work="• Managed social network accounts, added >2,000 followers in 2 months with record-high PV (>50,000).<br />
+• Secured funds of 30,000 CNY ($8,500) with the free venue and catering for annual events.<br />
 • Curated 2018 TEDxSuzhou Salon, including fundraising, agenda design, media publicity, speaker training,
 volunteer recruitment, and logistics management."
             />
@@ -143,8 +143,8 @@ volunteer recruitment, and logistics management."
               companyLink="https://microsoft.com"
               time="Jan.2018 - Sep.2018"
               // address="Redmond, WA."
-              work="• Co-organized the 2nd China-Europe International Literary Festival with the German Consulate in Shanghai, responsible for online/offline publicity of related activities. Resulting in 25K+ participants and net profit of $30k+.\n
-• Arranged 12 overseas writers’ schedules in China, and recruited and planned the assignments of 250 volunteers.\n
+              work="• Co-organized the 2nd China-Europe International Literary Festival with the German Consulate in Shanghai, responsible for online/offline publicity of related activities. Resulting in 25K+ participants and net profit of $30k+.<br />
+• Arranged 12 overseas writers’ schedules in China, and recruited and planned the assignments of 250 volunteers.<br />
 • Contributed to the design of the company's website and the operation of the public social handles, planned 6 thematic events, generated 7w+ revenue and accumulated >500 members. Demonstrated bilingual proficiency
 by hosting 5 main sessions and panels, conducting guest speaker interviews."
             />
