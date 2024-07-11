@@ -62,24 +62,26 @@ const Experience = () => {
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
             <Details
-              position="Software Engineer"
-              company="Google"
-              companyLink="https://google.com"
-              time="2022-Present"
-              address="Mountain View, CA"
-              work="Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
+              position="Chief Marketing Officer"
+              company="Yunyu Intelligent Tech LLC"
+              // companyLink="https://google.com"
+              time="May 2023-Present"
+              address="New York, NY"
+              work="Built a cross-functional marketing team of 10 professionals, overseeing marketing plan development, business development initiatives, and 5 campaign projects. Established a strong online presence through the website, and three different social media accounts, effectively reaching and engaging with the target audience."
             />
 
             <Details
-              position="Intern"
-              company="Facebook"
+              position="Project Manager Intern"
+              company="Accenture"
               companyLink="https://facebook.com"
-              time="Summer 2021"
-              address="Menlo Park, CA."
-              work="Worked on a team responsible for developing a new mobile app
-              feature that allowed users to create and share short-form video
-              content, including designing and implementing a new user interface
-              and developing the backend infrastructure to support the feature."
+              time="Jan.2021 - Jul.2021"
+              address="Shanghai, China"
+              work="• Facilitated full-cycle consulting engagements for clients and fostering collaboration between 4 cross-functional teams and clients, resulting in acquisition of 2 additional projects.\\
+• Implemented process optimization as exemplified by reducing overhead costs by 80% for a design project.\\
+• Co-led the sprint project for Ford China to gather market insights for 5 new product features, adept in user- centered design approaches. Conducted 7 rounds of user experience testing with over 150 participants, presented
+findings with data interpretation and visualization.\\
+• Coordinated tight project processes through project management initiatives using advanced mail-merge, Gantt
+charts, Kanban boards for 20+ teammates, decreased average delivery time from 90 to 68days ."
             />
 
             <Details
