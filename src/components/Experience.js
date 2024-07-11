@@ -76,12 +76,12 @@ const Experience = () => {
               companyLink="https://facebook.com"
               time="Jan.2021 - Jul.2021"
               address="Shanghai, China"
-              work=`
+              work='
     • Facilitated full-cycle consulting engagements for clients and fostering collaboration between 4 cross-functional teams and clients, resulting in acquisition of 2 additional projects.<br />
     • Implemented process optimization as exemplified by reducing overhead costs by 80% for a design project.<br />
     • Co-led the sprint project for Ford China to gather market insights for 5 new product features, adept in user-centered design approaches. Conducted 7 rounds of user experience testing with over 150 participants, presented findings with data interpretation and visualization.<br />
     • Coordinated tight project processes through project management initiatives using advanced mail-merge, Gantt charts, Kanban boards for 20+ teammates, decreased average delivery time from 90 to 68 days.
-  `/>
+  '/>
               <Details
               position="Research Assistant"
               company="Toronto Metropolitan University"
