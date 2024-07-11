@@ -76,46 +76,50 @@ const Experience = () => {
               companyLink="https://facebook.com"
               time="Jan.2021 - Jul.2021"
               address="Shanghai, China"
-              work="• Facilitated full-cycle consulting engagements for clients and fostering collaboration between 4 cross-functional teams and clients, resulting in acquisition of 2 additional projects.
+              work="• Facilitated full-cycle consulting engagements for clients and fostering collaboration between 4 cross-functional teams and clients, resulting in acquisition of 2 additional projects.\n
                 
-• Implemented process optimization as exemplified by reducing overhead costs by 80% for a design project.
+• Implemented process optimization as exemplified by reducing overhead costs by 80% for a design project.\n
   
-• Co-led the sprint project for Ford China to gather market insights for 5 new product features, adept in user-centered design approaches. Conducted 7 rounds of user experience testing with over 150 participants, presented findings with data interpretation and visualization.
+• Co-led the sprint project for Ford China to gather market insights for 5 new product features, adept in user-centered design approaches. Conducted 7 rounds of user experience testing with over 150 participants, presented findings with data interpretation and visualization.\n
   
-• Coordinated tight project processes through project management initiatives using advanced mail-merge, Gantt charts, Kanban boards for 20+ teammates, decreased average delivery time from 90 to 68days ."
+• Coordinated tight project processes through project management initiatives using advanced mail-merge, Gantt charts, Kanban boards for 20+ teammates, decreased average delivery time from 90 to 68 days."
             />
-
-            <Details
-              position="Software Developer"
-              company="Amazon"
-              companyLink="https://amazon.com"
-              time="2020-2021"
-              address="Seattle, WA."
-              work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
-            />
-
-            <Details
-              position="Software Developer Intern"
-              company="Microsoft"
-              companyLink="https://microsoft.com"
-              time="Summer 2019"
-              address="Redmond, WA."
-              work="Worked on a team responsible for developing new features for
-              Microsoft's Windows operating system, including implementing a new
-              user interface for a system settings panel and optimizing the
-              performance of a core system component."
-            />
-
-            <Details
-              position="Teaching Assistant"
-              company="MIT"
+              <Details
+              position="Research Assistant"
+              company="Toronto Metropolitan University"
               companyLink="https://mit.edu"
-              time="Fall 2018"
-              address="Massachusetts Ave, Cambridge, MA."
-              work="Assisted in teaching a course on computer programming, held office
-              hours to help students with assignments, and graded exams and
-              assignments."
+              time="Jun.2019 - Sep.2019"
+              address="Toronto, Canada"
+              work="Adviser: Dr. Jenna Jacobson Global Research Internship Scholarship funded by state Ministry of Education (Top 1)\n
+• Focused on micro-influencers’ perspectives to understand the innovation and changing digital retailing landscape, codify 323 influencers social media. \n
+• Initiated the implementation of Python to streamline the tedious data collection process, successfully crawled and cleaned the data. Displayed technical aptitude through self-taught Python skills and developed a 20-page data collection handbook for the subsequent team, leading to its successful execution and continued use."
             />
+
+            <Details
+              position="Brand Marketing Specialist"
+              company="TEDx"
+              companyLink="https://amazon.com"
+              time="Jun.2018 - Jan.2019"
+              address="Suzhou, China"
+              work="• Managed social network accounts, added >2,000 followers in 2 months with record-high PV (>50,000).\n
+• Secured funds of 30,000 CNY ($8,500) with the free venue and catering for annual events.\n
+• Curated 2018 TEDxSuzhou Salon, including fundraising, agenda design, media publicity, speaker training,
+volunteer recruitment, and logistics management."
+            />
+
+            <Details
+              position="Event Manager"
+              company="The Bookworm Cultural Development Co., Ltd."
+              companyLink="https://microsoft.com"
+              time="Jan.2018 - Sep.2018"
+              // address="Redmond, WA."
+              work="• Co-organized the 2nd China-Europe International Literary Festival with the German Consulate in Shanghai, responsible for online/offline publicity of related activities. Resulting in 25K+ participants and net profit of $30k+.\n
+• Arranged 12 overseas writers’ schedules in China, and recruited and planned the assignments of 250 volunteers.\n
+• Contributed to the design of the company's website and the operation of the public social handles, planned 6 thematic events, generated 7w+ revenue and accumulated >500 members. Demonstrated bilingual proficiency
+by hosting 5 main sessions and panels, conducting guest speaker interviews."
+            />
+
+
           </ul>
         </div>
         </div>
