@@ -66,7 +66,12 @@ export default function About() {
                 Ginny has consistently demonstrated her passion for bridging cultural gaps and fostering global connections.
               </p>
               <p className="my-4 font-medium">
-                xxxx
+                Her professional journey is marked by notable achievements in various roles. 
+                  As the Marketing Chair for PennEnchord A Cappella, Ginny showcased her expertise in digital media by growing 
+                  the group's social media following by over 500 followers in just two months and achieving record-high page views. 
+                  She also successfully raised $8.5K in funds, securing a free venue and catering for their annual event. I
+                  In her role as Vice President of the Chinese Student and Scholar Association at Penn, she co-launched the 
+                  "Connecting the Dots" series, promoting networking opportunities between students and alumnae, and designed a mentorship program benefiting over 80 members.
               </p>
               <p className="font-medium">
                 xxxxxx
