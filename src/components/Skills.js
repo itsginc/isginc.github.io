@@ -40,13 +40,13 @@ const Skills = () => {
         <motion.div whileHover={{scale:1.05}} className="cursor-pointer flex rounded-full font-semibold bg-dark text-light p-8 shadow-dark
         dark:bg-light dark:text-dark lg:p-6 md:p-4 xs:text-xs xs:p-2
         ">
-        Web
+        Communication
       </motion.div>
 
         <Skill name="Python" x="-20vw" y="2vw" />
 
           <Skill name="R" x="-5vw" y="-10vw" />
-          <Skill name="SQL" x="-5vw" y="-10vw" />
+          <Skill name="SQL" x="-5vw" y="-13vw" />
           <Skill name="Github" x="-5vw" y="-10vw" />
           <Skill name="Lightroom" x="20vw" y="6vw" />
           <Skill name="Adobe Premiere" x="0vw" y="12vw" />
@@ -57,9 +57,9 @@ const Skills = () => {
           <Skill name="Adaptability" x="0vw" y="-20vw" />
           <Skill name="Interpersonal skills" x="-25vw" y="18vw" />
           <Skill name="Conversational Spanish" x="28vw" y="18vw" />
-          <Skill name="Tango" x="0vw" y="-20vw" />
-          <Skill name="Band performance" x="-25vw" y="18vw" />
-          <Skill name="Backpacking" x="28vw" y="18vw" />
+          <Skill name="Tango" x="10vw" y="-20vw" />
+          <Skill name="Band performance" x="-5vw" y="18vw" />
+          <Skill name="Backpacking" x="18vw" y="18vw" />
     </div></>
   );
 };
