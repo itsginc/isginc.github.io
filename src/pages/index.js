@@ -34,7 +34,7 @@ export default function Home() {
               <Image
                 src={profilePic}
                 alt="CodeBucks"
-                className="h-auto w-1/2"
+                className="h-auto w-4/5"
                 sizes="50vw"
                 priority
               />
