@@ -43,6 +43,14 @@ const Education = () => {
           style={{ scaleY: scrollYProgress }}
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4">
+  
+          <Details
+            type="Master of Science Ed in Intercultural Communication"
+            time="Sep. 2021 - May 2024"
+            place="University of Pennsylvania"
+            // info="GPA:3.85/4.00"
+          />
+              
           <Details
             type="Bachelor of Art in Communications"
             time="Sep. 2016- Jun. 2020"
