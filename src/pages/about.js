@@ -60,7 +60,10 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                xxxxx
+                Ginny Cheng is a dynamic professional with a rich blend of academic excellence and diverse 
+                leadership experiences. Holding a Master of Science in Education in Intercultural Communication 
+                from the University of Pennsylvania and a Bachelor's degree in Communications from Soochow University, 
+                Ginny has consistently demonstrated her passion for bridging cultural gaps and fostering global connections.
               </p>
               <p className="my-4 font-medium">
                 xxxx
