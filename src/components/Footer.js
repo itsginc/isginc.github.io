@@ -3,7 +3,7 @@ import React from "react";
 import Layout from "./Layout";
 
 const Footer = () => {
-  return (
+  // return (
     // <footer
     //   className="w-full border-t-2 border-solid border-dark
     // font-medium text-lg dark:text-light dark:border-light sm:text-base
@@ -32,7 +32,7 @@ const Footer = () => {
     //     </Link>
     //   </Layout>
     // </footer>
-  );
+  // );
 };
 
 export default Footer;
