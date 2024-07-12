@@ -46,7 +46,7 @@ const Skills = () => {
         <Skill name="Python" x="-20vw" y="2vw" />
 
           <Skill name="R" x="-5vw" y="-10vw" />
-          <Skill name="SQL" x="-5vw" y="-13vw" />
+          <Skill name="SQL" x="-5vw" y="-17vw" />
           <Skill name="Github" x="-5vw" y="-5vw" />
           <Skill name="Lightroom" x="20vw" y="6vw" />
           <Skill name="Adobe Premiere" x="0vw" y="12vw" />
@@ -59,7 +59,7 @@ const Skills = () => {
           <Skill name="Conversational Spanish" x="28vw" y="18vw" />
           <Skill name="Tango" x="10vw" y="-20vw" />
           <Skill name="Band performance" x="-5vw" y="18vw" />
-          <Skill name="Backpacking" x="18vw" y="18vw" />
+          <Skill name="Backpacking" x="18vw" y="21vw" />
     </div></>
   );
 };
