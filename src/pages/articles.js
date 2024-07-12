@@ -57,8 +57,8 @@ const MovingImg = ({ title, img, link }) => {
             x: x,
             y: y,
           }}
-          sizes="(max-width: 768px) 60vw,
-              (max-width: 1200px) 40vw,
+          sizes="(max-width: 672px) 60vw,
+              (max-width: 1050px) 40vw,
               33vw"
         />
       </Link>
