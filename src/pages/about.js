@@ -60,23 +60,13 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                // Hi, I&apos;m <strong>CodeBucks</strong>, a web developer and
-                // UI/UX designer with a passion for creating beautiful,
-                // functional, and user-centered digital experiences. With 4 years
-                // of experience in the field. I am always looking for new and
-                // innovative ways to bring my clients&apos; visions to life.
+                xxxxx
               </p>
               <p className="my-4 font-medium">
-                // I believe that design is about more than just making things look
-                // pretty – it&apos;s about solving problems and creating
-                // intuitive, enjoyable experiences for users.
+                xxxx
               </p>
               <p className="font-medium">
-                // Whether I&apos;m working on a website, mobile app, or other
-                // digital product, I bring my commitment to design excellence and
-                // user-centered thinking to every project I work on. I look
-                // forward to the opportunity to bring my skills and passion to
-                // your next project.
+                xxxxxx
               </p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
