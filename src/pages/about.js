@@ -74,7 +74,13 @@ export default function About() {
                   "Connecting the Dots" series, promoting networking opportunities between students and alumnae, and designed a mentorship program benefiting over 80 members.
               </p>
               <p className="font-medium">
-                xxxxxx
+              Ginny's professional prowess extends to her role as Chief Operating Officer at Yunyu Intelligent Tech LLC, where she co-founded a Psy-AI mental health support platform. This innovative platform has helped over 80 clients and provided valuable counseling practice opportunities for more than 50 international students with professional backgrounds. Her efforts resulted in a 100% retention rate of clients and mentors after a one-month pilot period, generating $1K in profit and converting 60% of digital media traffic into revenue.
+
+              Her analytical skills were honed during her tenure as a Business Analyst Intern at Accenture, where she identified product features with a $50M market potential and implemented procurement process optimizations that reduced overhead costs by 80%. Ginny's ability to collaborate with cross-functional and cross-cultural teams has been instrumental in acquiring additional projects for the company.
+
+              Beyond her professional endeavors, Ginny is passionate about tango, band performances, and backpacking. These interests reflect her love for creativity, rhythm, and exploration, enriching her life and fueling her professional drive.
+
+              Ginny Cheng's journey is a testament to her dedication to intercultural communication, innovation, and leadership. Her unique blend of skills, passion, and experience continues to make a significant impact in every endeavor she undertakes.
               </p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
