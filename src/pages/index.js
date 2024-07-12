@@ -35,7 +35,7 @@ export default function Home() {
                 src={profilePic}
                 alt="CodeBucks"
                 className="h-auto w-full"
-                sizes="100vw"
+                sizes="70vw"
                 priority
               />
             </div>
